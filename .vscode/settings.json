@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.ko": "html",
+        "*.template": "html",
+        "*.docker": "dockerfile",
+        "stdio.h": "c",
+        "limits.h": "c",
+        "climits": "c",
+        "type_traits": "cpp",
+        "wctype.h": "c",
+        "cwctype": "c"
+    }
+}
