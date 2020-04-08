@@ -9,6 +9,8 @@
         "climits": "c",
         "type_traits": "cpp",
         "wctype.h": "c",
-        "cwctype": "c"
+        "cwctype": "c",
+        "ctype.h": "c",
+        "cctype": "c"
     }
 }

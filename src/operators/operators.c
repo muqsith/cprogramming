@@ -4,6 +4,10 @@
 #include <wctype.h>
 #include <math.h>
 
+
+// gcc -o bin/operators src/operators/operators.c -lm
+
+
 void funny(char c, float f) // better always declare int and double
 {
     printf("char c is %c and float f is %f\n", c, f);
