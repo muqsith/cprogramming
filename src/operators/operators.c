@@ -65,5 +65,10 @@ int main()
     q = ++p;
     printf("q, p after (q = ++p) : %d, %d\n", q, p);
 
+    const int sunita = 2019;
+
+    // sunita = 25; you cannot reassign value to constant variable
+
+    printf("%d\n", sunita);
 
 }
